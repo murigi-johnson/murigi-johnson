@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @murigi-johnson
 - 👀 I’m interested in delivering a great product the right way, doing things the right way with a long-term outlook,looking forward in building and maintaining web applications and i am looking to make an impact within a scaling startup.
 - 🌱 I’m currently learning HTML,CSS,React.js,Node.js
-- 💞️ I’m looking to be a Full Stack Software Engineer
+- 💞️ I’m looking to be a Full Stack Web Developer. 
+
 
 <!---
 murigi-johnson/murigi-johnson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
